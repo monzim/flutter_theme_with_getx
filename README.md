@@ -20,6 +20,11 @@ Please make sure you add this plugins for running this.
 [GoogleFonts](https://pub.dev/packages/google_fonts)</br>
 [Hive Flutter](https://pub.dev/packages/hive_flutter)</br>
 
+## ScreenShot
+
+<img src="https://i.ibb.co/4gkWx1L/Frame-2.png" width="500" height="500">
+<img src="https://i.ibb.co/4gkWx1L/Frame-2-1.png" width="500" height="500">
+
 ## Authors
 
 - [monzim](https://www.github.com/monzim)
